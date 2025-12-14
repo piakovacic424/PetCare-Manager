@@ -1,6 +1,6 @@
 # 🐾 PetCare Manager
 
-## O aplikaciji
+## O aplikaciji 
 **PetCare Manager** je aplikacija za evidenciju kućnih ljubimaca i njihovih događaja.  
 Omogućuje dodavanje, uređivanje i brisanje ljubimaca, praćenje događaja poput veterinarskih pregleda ili rođendana te podsjetnike za nadolazeće događaje.  
 
